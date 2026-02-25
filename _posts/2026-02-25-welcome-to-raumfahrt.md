@@ -3,8 +3,7 @@ title: "Welcome to my world : Raumfahrt"
 categories:
   - Daily
   - Physics
-  - mathematics
-  - etc
+  - Mathematics
 tags:
   - new start
 ---
